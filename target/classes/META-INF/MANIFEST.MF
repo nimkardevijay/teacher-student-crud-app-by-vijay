@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Student_Teacher_Managementl
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: VijayNimkarde
+Implementation-Vendor-Id: net.javaguides.springboot
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Student_Teacher_Management
+Created-By: Maven Integration for Eclipse
+
